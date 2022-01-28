@@ -7,5 +7,3 @@
 Thank You!🙂
 ### Regards,
 > ```Adithya-19```
-
-![Bye-Bye](https://myoctocat.com/assets/images/base-octocat.svg)
